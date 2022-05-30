@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\5-8">
+      <UniqueIdentifier>{296734ed-f519-473f-ac04-659f851a58e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\5-10">
+      <UniqueIdentifier>{39732a72-c3ee-483f-b316-9e9824c9689d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\5-10\0427">
+      <UniqueIdentifier>{14ef14e1-322d-45d0-ac1c-50ff6d2441e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="0427.cpp">
+      <Filter>源文件\5-10\0427</Filter>
+    </ClCompile>
+    <ClCompile Include="5-10.cpp">
+      <Filter>源文件\5-10</Filter>
+    </ClCompile>
+    <ClCompile Include="5-8.cpp">
+      <Filter>源文件\5-10</Filter>
+    </ClCompile>
+    <ClCompile Include="总复习.cpp">
+      <Filter>源文件\5-10</Filter>
+    </ClCompile>
+    <ClCompile Include="指针数组排序.cpp">
+      <Filter>源文件\5-10</Filter>
+    </ClCompile>
+    <ClCompile Include="0428.cpp">
+      <Filter>源文件\5-10</Filter>
+    </ClCompile>
+    <ClCompile Include="0821上机.cpp">
+      <Filter>源文件\5-10\0427</Filter>
+    </ClCompile>
+    <ClCompile Include="NEW.cpp">
+      <Filter>源文件\5-10</Filter>
+    </ClCompile>
+    <ClCompile Include="得到百十个位.cpp">
+      <Filter>源文件\5-10</Filter>
+    </ClCompile>
+    <ClCompile Include="string.cpp">
+      <Filter>源文件\5-10</Filter>
+    </ClCompile>
+    <ClCompile Include="for.cpp">
+      <Filter>源文件\5-10</Filter>
+    </ClCompile>
+    <ClCompile Include="5-23.cpp">
+      <Filter>源文件\5-10\0427</Filter>
+    </ClCompile>
+    <ClCompile Include="复习.cpp">
+      <Filter>源文件\5-10\0427</Filter>
+    </ClCompile>
+    <ClCompile Include="水仙花.cpp">
+      <Filter>源文件\5-10\0427</Filter>
+    </ClCompile>
+    <ClCompile Include="class.cpp">
+      <Filter>源文件\5-10\0427</Filter>
+    </ClCompile>
+    <ClCompile Include="指针.cpp">
+      <Filter>源文件\5-10\0427</Filter>
+    </ClCompile>
+    <ClCompile Include="源1.cpp">
+      <Filter>源文件\5-10\0427</Filter>
+    </ClCompile>
+    <ClCompile Include="考试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
